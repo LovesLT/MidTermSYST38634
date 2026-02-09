@@ -14,6 +14,7 @@ public class ProductManager {
         System.out.println("Hello World!");
     }
     
+    // multiplies price by discount rate
     public double calculateDiscount(double price, double rate) {
         return price * rate;
     }
