@@ -6,7 +6,7 @@ package test.productmanager;
 
 /**
  *
- * @author Lp_To
+ * @author Lovepreet
  */
 public class ProductManager {
 
